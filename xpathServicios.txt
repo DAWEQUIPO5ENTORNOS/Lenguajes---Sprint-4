@@ -1,0 +1,19 @@
+mostrar sólo el título de todos los servicios
+
+//titulo
+
+mostrar el último servicio de la lista
+
+//titulo[last()]
+
+mostrar sólo el título y el precio de los servicios de la categoría que elijas
+
+//pocion/precio
+
+Haz 3 consultas más sobre lo que quieras
+
+//pocion[2]    MUESTRA LA 2 POCION
+
+//precio | //nombre MUESTRA TODOS LOS NOMBRES CON LOS PRECIOS
+
+//Pokebolas/nombre | //Pocion/precio MUESTRA LAS POKEBOLAS Y LOS PRECIOS DE LAS POCIONES
