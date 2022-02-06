@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<copyright>2006 Refsnes Data as. All rights reserved.</copyright>
+<language>es-es</language>
+
+<channel>
+  <title>Página principal</title>
+  <link>https://drive.google.com/drive/folders/1hsEwnnu-lTwxKuU0Rr--dPgFJXGqszPe?usp=sharing</link>
+  <description>Página web de Pokemon</description>
+  <item>
+    <title>Inicio</title>
+    <link>./Index.html</link>
+    <description>Inicio de la página Pokemon</description>
+  </item>
+  <item>
+    <title>About us</title>
+    <link>./aboutUs.html</link>
+    <description>Información sobre nosotros</description>
+  </item>
+  <item>
+    <title>Productos y servicios</title>
+    <link>./servicos.html</link>
+    <description>Información sobre nuestros productos y servicios</description>
+  </item>
+  <item>
+    <title>Página de contacto</title>
+    <link>./Contacto.html</link>
+    <description>Contacta con nosotros</description>
+  </item>
+  <item>
+    <title>Novedades</title>
+    <link>./Novedades.html</link>
+    <description>Nuestras novedades</description>
+  </item>
+   <item>
+    <title>Agradecimientos</title>
+    <link>./agradecimientos.html</link>
+    <description>Agradecimientos a Pablo "Boom" Flores</description>
+  </item>
+</channel>
+
+</rss>
