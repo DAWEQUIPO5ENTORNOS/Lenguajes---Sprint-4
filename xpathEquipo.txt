@@ -1,0 +1,15 @@
+Mostramos los jugadores del segundo equipo
+//equipo2/jugadores
+Mostramos los primeros jugadores de cada equipo 
+//jugador[1]
+Mostramos los sueldos mayor de 1500
+//equipo[2]//jugador
+Mostrar equipo con ranking = 1
+//equipo[ranking=1]
+//jugador[sueldo>1500]
+Mostramos los nombres de los equipos y los rankings
+//nombreequipo | //ranking
+Hacemos 3 preguntas
+//jugador[edad<19]
+//jugador[sueldo<20]
+//equipo[ranking=3]
